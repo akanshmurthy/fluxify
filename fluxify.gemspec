@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "fluxify"
   spec.version       = Fluxify::VERSION
   spec.authors       = ["Akansh Murthy"]
-  spec.email         = ["ak45m16@gmail.com"]
+  spec.email         = ["ambshun@alum.mit.edu"]
 
   spec.summary       = %q{Creates one cycle of Flux in React Rails.}
   spec.description   = %q{With a single command, a util, action, constant, dispatcher, store, and component will be created.}
