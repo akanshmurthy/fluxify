@@ -17,6 +17,7 @@ And then bundle:
 ## Usage
 
 Simply, enter:
+
     $ rails generate fluxify:install
 
 ## Development
