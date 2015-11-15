@@ -8,7 +8,6 @@ module Fluxify
 
       def install_assets
         require 'rails'
-        require 'active_admin'
 
         template '../templates/actions/general_actions.js',
 'app/assets/javascripts/actions/general_actions.js'
